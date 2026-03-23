@@ -158,18 +158,7 @@ The strategy achieves similar returns with significantly lower risk, improving r
 - pandas, numpy
 
 ---
-
-## How to Run
-
-```bash
-git clone https://github.com/yourusername/market-regime-detection.git
-cd market-regime-detection
-
-pip install -r requirements.txt
-
-jupyter notebook notebooks/603_FinalProject.ipynb
-
-
+---
 
 ## Limitations
 
@@ -187,3 +176,13 @@ Explore online learning for model adaptation
 
 # Gautam Kumar Venkat Sreeram Bulusu
 # University of Maryland, College Park
+
+## How to Run
+
+```bash
+git clone https://github.com/yourusername/market-regime-detection.git
+cd market-regime-detection
+
+pip install -r requirements.txt
+
+jupyter notebook notebooks/603_FinalProject.ipynb
